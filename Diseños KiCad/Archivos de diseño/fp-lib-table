@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "${KIPRJMOD}/Librerias/ESP32-DEVKIT-V1")(options "")(descr ""))
+  (lib (name "LP395z")(type "KiCad")(uri "${KIPRJMOD}/Librerias/LP395Z_NOPB")(options "")(descr ""))
+)
